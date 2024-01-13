@@ -17,5 +17,8 @@ This is a scatterplot depicting top 35 fastest professional cylists on their asc
 - CSS
 - Javascript
 
+## Data Source
+The cyclists data for the scatterplot was sourced from [FreeCodeCamp] (https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json)
+
 ## Contribution
 Feel free to contribute to the project or point out any bugs.
